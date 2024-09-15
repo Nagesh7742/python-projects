@@ -10,7 +10,7 @@ elif o == "-":
 elif o == "*":
     print(f'the anwer is = {a*b}')
 else:
-    print("you entered a incorrect operator")
+    print("invalid Operator")
     print("try again")
 
     
